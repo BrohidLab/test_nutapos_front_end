@@ -208,7 +208,7 @@
 		            	variant="outlined"
 		            	rounded="lg"
 		            	elevation="0"
-		            	@click="dialog.discount=true"
+		            	@click="cancelSelectDiscount"
 		            >
 		              Batalkan
 		            </v-btn>
